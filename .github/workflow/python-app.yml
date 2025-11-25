@@ -53,4 +53,3 @@ deploy:
             echo "Deployment simulation successful"
             echo " Trianed model ready at models/model.pkl"
 
-
